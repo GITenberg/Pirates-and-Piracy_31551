@@ -1,0 +1,37 @@
+_repo: Pirates-and-Piracy_31551
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Heydt, Herman A. (Herman August)
+    alias: Heydt, Herman August
+    birthdate: 1868
+    deathdate: 1941
+    gutenberg_agent_id: '35324'
+    url: http://www.gutenberg.org/2009/agents/35324
+  illustrator:
+    agent_name: Ehrlich, Frederick
+    gutenberg_agent_id: '35325'
+    url: http://www.gutenberg.org/2009/agents/35325
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herrmann, Oscar
+    gutenberg_agent_id: '35323'
+    url: http://www.gutenberg.org/2009/agents/35323
+description: ''
+gutenberg_issued: '2010-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31551'
+  lccn: '03003751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JX'
+- !lcsh 'Pirates -- History'
+title: Pirates and Piracy
+url: http://www.gutenberg.org/ebooks/31551
